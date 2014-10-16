@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[app:home|Door43 (app)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-app|d43-app repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-app/archive/master.zip|d43-app.zip]]
+
+**Recent Changes**
+{{changes>ns = app}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/app|Ethnologue data]]
+
